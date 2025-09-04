@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.exe
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.deps.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.runtimeconfig.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.AssemblyInfo.cs
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.sourcelink.json
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\refint\Kalapacsvetes.dll
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.pdb
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.genruntimeconfig.cache
+D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\ref\Kalapacsvetes.dll

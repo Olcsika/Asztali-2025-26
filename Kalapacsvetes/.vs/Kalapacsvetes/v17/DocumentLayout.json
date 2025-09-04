@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E798516-357A-4B76-8042-7A6D5D4E7D41}|Kalapacsvetes\\Kalapacsvetes.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-2025-26\\kalapacsvetes\\kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E798516-357A-4B76-8042-7A6D5D4E7D41}|Kalapacsvetes\\Kalapacsvetes.csproj|solutionrelative:kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E798516-357A-4B76-8042-7A6D5D4E7D41}|Kalapacsvetes\\Kalapacsvetes.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali-2025-26\\kalapacsvetes\\kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E798516-357A-4B76-8042-7A6D5D4E7D41}|Kalapacsvetes\\Kalapacsvetes.csproj|solutionrelative:kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sportolo.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-2025-26\\Kalapacsvetes\\Kalapacsvetes\\Sportolo.cs",
+              "RelativeDocumentMoniker": "Kalapacsvetes\\Sportolo.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-2025-26\\Kalapacsvetes\\Kalapacsvetes\\Sportolo.cs",
+              "RelativeToolTip": "Kalapacsvetes\\Sportolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:28:33.73Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Kalapacsvetes\\Program.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali-2025-26\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
               "RelativeToolTip": "Kalapacsvetes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T06:24:19.098Z",
               "EditorCaption": ""
