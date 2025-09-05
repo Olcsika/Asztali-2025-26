@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kalapacsvetes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d733673f89f57daafb03ee8de69af991aa09ef5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6916095ca41fc417b95af1b170a6ae5c755d5a92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kalapacsvetes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kalapacsvetes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

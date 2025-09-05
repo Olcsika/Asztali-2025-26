@@ -13,3 +13,18 @@ D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\o
 D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.pdb
 D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.genruntimeconfig.cache
 D:\munkakönyvtár\Lébár Olivér\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\ref\Kalapacsvetes.dll
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.exe
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.deps.json
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.runtimeconfig.json
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.dll
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.pdb
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.AssemblyInfoInputs.cache
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.AssemblyInfo.cs
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.sourcelink.json
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.dll
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\refint\Kalapacsvetes.dll
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.pdb
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.genruntimeconfig.cache
+C:\Users\Loliver\Documents\Asztali-2025-26\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\ref\Kalapacsvetes.dll
