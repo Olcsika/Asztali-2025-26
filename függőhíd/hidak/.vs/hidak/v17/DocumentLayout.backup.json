@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|c:\\users\\loliver\\documents\\asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|solutionrelative:hidak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|c:\\users\\loliver\\documents\\asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|solutionrelative:hidak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|c:\\users\\loliver\\documents\\asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|solutionrelative:hidak\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|c:\\users\\loliver\\documents\\asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|solutionrelative:hidak\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|c:\\users\\loliver\\documents\\asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|solutionrelative:hidak\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|c:\\users\\loliver\\documents\\asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C11DB6D7-5A58-4B0E-85BD-E88735AF30B2}|hidak\\hidak.csproj|solutionrelative:hidak\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +44,70 @@
               "RelativeDocumentMoniker": "hidak\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\MainWindow.xaml.cs",
               "RelativeToolTip": "hidak\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:27:01.434Z",
+              "WhenOpened": "2025-09-12T08:57:50.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "hidak\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\Window1.xaml.cs",
+              "RelativeToolTip": "hidak\\Window1.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T08:52:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\Window1.xaml",
+              "RelativeDocumentMoniker": "hidak\\Window1.xaml",
+              "ToolTip": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\Window1.xaml",
+              "RelativeToolTip": "hidak\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-11T07:41:20.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\App.xaml",
+              "RelativeDocumentMoniker": "hidak\\App.xaml",
+              "ToolTip": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\App.xaml",
+              "RelativeToolTip": "hidak\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-11T07:11:53.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fuggohid.cs",
+              "DocumentMoniker": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\Fuggohid.cs",
+              "RelativeDocumentMoniker": "hidak\\Fuggohid.cs",
+              "ToolTip": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\Fuggohid.cs",
+              "RelativeToolTip": "hidak\\Fuggohid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:19:00.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "hidak\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Loliver\\Documents\\Asztali-2025-26\\f\u00FCgg\u0151h\u00EDd\\hidak\\hidak\\MainWindow.xaml",
+              "RelativeToolTip": "hidak\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-09T11:27:04.12Z",
               "EditorCaption": ""
             }
           ]

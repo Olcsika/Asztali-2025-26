@@ -5,8 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:hidak"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Függőhidak" Height="450" Width="800">
+    <Grid Loaded="Grid_Loaded">
+        <ListBox x:Name="nevek" Margin="37,60,400,157" MouseLeftButtonDown="nevek_MouseLeftButtonDown" SelectionChanged="nevek_SelectionChanged"/>
+        <Label x:Name="label" Content="Hely" HorizontalAlignment="Left" Margin="529,60,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Ország" HorizontalAlignment="Left" Margin="529,119,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy1" Content="Hossz" HorizontalAlignment="Left" Margin="529,171,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy2" Content="Év" HorizontalAlignment="Left" Margin="541,217,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="hely" HorizontalAlignment="Left" Margin="623,73,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"/>
+        <TextBlock x:Name="orszag" HorizontalAlignment="Left" Margin="623,124,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"/>
+        <TextBlock x:Name="hossz" HorizontalAlignment="Left" Margin="623,184,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"/>
+        <TextBlock x:Name="ev" HorizontalAlignment="Left" Margin="623,227,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton" Content="2000 elött épült" HorizontalAlignment="Left" Margin="119,306,0,0" VerticalAlignment="Top" Checked="radioButton_Checked"/>
+        <RadioButton x:Name="radioButton1" Content="2000-ben vagy utána" HorizontalAlignment="Left" Margin="119,347,0,0" VerticalAlignment="Top" Checked="radioButton1_Checked"/>
+        <TextBlock x:Name="evkiir" HorizontalAlignment="Left" Margin="119,382,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="23" Width="119" Foreground="#FF020202"/>
+        <Button x:Name="button" Content="Kilépés" HorizontalAlignment="Left" Margin="529,321,0,0" VerticalAlignment="Top" Height="41" Width="94" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="Kilépés" HorizontalAlignment="Left" Margin="123,10,0,0" VerticalAlignment="Top" Height="41" Width="94" Click="button_Click"/>
+        <Button x:Name="button1" Content="Keresés" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="41" Width="94" Click="button1_Click"/>
 
     </Grid>
 </Window>
