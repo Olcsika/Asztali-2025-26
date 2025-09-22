@@ -8,9 +8,10 @@
         Title="Keresés" Height="450" Width="800">
     <Grid Loaded="Grid_Loaded">
         <ComboBox x:Name="comboBox" Margin="172,254,471,132" RenderTransformOrigin="0.801,1.1" SelectionChanged="comboBox_SelectionChanged"/>
-        <Button x:Name="button" Content="Keresés" HorizontalAlignment="Left" Margin="163,347,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Button x:Name="button" Content="Keresés" HorizontalAlignment="Left" Margin="163,347,0,0" VerticalAlignment="Top" FontSize="18" Click="button_Click"/>
         <Button x:Name="button1" Content="Bezárás" HorizontalAlignment="Left" Margin="470,347,0,0" VerticalAlignment="Top" FontSize="18" Click="button1_Click"/>
         <Label x:Name="label" Content="Ország" HorizontalAlignment="Left" Margin="102,254,0,0" VerticalAlignment="Top" FontSize="18"/>
         <ListBox x:Name="ide"  Margin="43,29,418,234"/>
+        <CheckBox x:Name="checkBox" Content="1km-nél hosszabb" HorizontalAlignment="Left" Margin="163,313,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>

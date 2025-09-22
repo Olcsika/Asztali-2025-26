@@ -32,7 +32,7 @@ namespace hidak
             win2.Show();
         }
         List<Fuggohid> adatok = new List<Fuggohid>();
-        List<string> orszagok_ = new List<string>();
+        List<string> orszagok = new List<string>();
         string[] tomb = File.ReadAllLines("fuggohidak.csv");
         private void Grid_Loaded(object sender, RoutedEventArgs e)
         {
@@ -43,25 +43,43 @@ namespace hidak
             }
             foreach (Fuggohid line in adatok)
             {
-                if (!orszagok_.Contains(line.orszag))
+                if (!orszagok.Contains(line.orszag))
                 {
-                    orszagok_.Add(line.orszag);
+                    orszagok.Add(line.orszag);
                 }
 
             }
-            comboBox.ItemsSource = orszagok_;
+            comboBox.ItemsSource = orszagok;
+
         }
 
         private void comboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            
+            comboBox.ItemsSource = orszagok;
+
             foreach (Fuggohid line in adatok)
             {
-                if (comboBox.SelectedValue == line.orszag)
+                if (comboBox.Text == line.orszag)
                 {
-                    ide.Items.Add(line.nev);
+                    if(checkBox.IsChecked == true)
+                    {
+                        if(line.hossz > 1000)
+                        {
+                            ide.ItemsSource += line.nev;
+                        }
+                    }
+                    else
+                    {
+                        ide.ItemsSource += line.nev;
+                    }
                 }
             }
         }
-
     }
 }
